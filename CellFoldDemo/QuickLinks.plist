@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>section</key>
+			<string>#Item section 0</string>
+			<key>icon</key>
+			<string></string>
+			<key>title</key>
+			<string>Item row 0</string>
+			<key>desc</key>
+			<string>desc 0</string>
+		</dict>
+		<dict>
+			<key>section</key>
+			<string>#Item section 0</string>
+			<key>icon</key>
+			<string></string>
+			<key>title</key>
+			<string>Item row 1</string>
+			<key>desc</key>
+			<string>desc 1</string>
+		</dict>
+		<dict>
+			<key>section</key>
+			<string>#Item section 0</string>
+			<key>icon</key>
+			<string></string>
+			<key>title</key>
+			<string>Item row 2</string>
+			<key>desc</key>
+			<string>desc 2</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>section</key>
+			<string>#Item section 1</string>
+			<key>icon</key>
+			<string></string>
+			<key>title</key>
+			<string>Item row 0</string>
+			<key>desc</key>
+			<string>desc 0</string>
+		</dict>
+		<dict>
+			<key>section</key>
+			<string>#Item section 1</string>
+			<key>icon</key>
+			<string></string>
+			<key>title</key>
+			<string>Item row 1</string>
+			<key>desc</key>
+			<string>desc 1</string>
+		</dict>
+		<dict>
+			<key>section</key>
+			<string>#Item section 1</string>
+			<key>icon</key>
+			<string></string>
+			<key>title</key>
+			<string>Item row 2</string>
+			<key>desc</key>
+			<string>desc 2</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>section</key>
+			<string>#Item section 2</string>
+			<key>icon</key>
+			<string></string>
+			<key>title</key>
+			<string>Item row 0</string>
+			<key>desc</key>
+			<string>desc 0</string>
+		</dict>
+		<dict>
+			<key>section</key>
+			<string>#Item section 2</string>
+			<key>icon</key>
+			<string></string>
+			<key>title</key>
+			<string>Item row 1</string>
+			<key>desc</key>
+			<string>desc 1</string>
+		</dict>
+		<dict>
+			<key>section</key>
+			<string>#Item section 2</string>
+			<key>icon</key>
+			<string></string>
+			<key>title</key>
+			<string>Item row 2</string>
+			<key>desc</key>
+			<string>desc 2</string>
+		</dict>
+	</array>
+</array>
+</plist>
