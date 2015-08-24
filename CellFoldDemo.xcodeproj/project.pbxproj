@@ -28,6 +28,7 @@
 		A266BB101B7A202700345A72 /* ic_file_type_apk_big@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A266BB0C1B7A202700345A72 /* ic_file_type_apk_big@3x.png */; };
 		A266BB111B7A202700345A72 /* ic_file_type_unknown_big@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A266BB0D1B7A202700345A72 /* ic_file_type_unknown_big@2x.png */; };
 		A266BB121B7A202700345A72 /* ic_file_type_unknown_big@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A266BB0E1B7A202700345A72 /* ic_file_type_unknown_big@3x.png */; };
+		A2DACE171B8B2F8C001381CC /* Untitled.gif in Resources */ = {isa = PBXBuildFile; fileRef = A2DACE161B8B2F8C001381CC /* Untitled.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +72,7 @@
 		A266BB0C1B7A202700345A72 /* ic_file_type_apk_big@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_file_type_apk_big@3x.png"; sourceTree = "<group>"; };
 		A266BB0D1B7A202700345A72 /* ic_file_type_unknown_big@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_file_type_unknown_big@2x.png"; sourceTree = "<group>"; };
 		A266BB0E1B7A202700345A72 /* ic_file_type_unknown_big@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_file_type_unknown_big@3x.png"; sourceTree = "<group>"; };
+		A2DACE161B8B2F8C001381CC /* Untitled.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Untitled.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 		A266BABA1B7A0C8C00345A72 = {
 			isa = PBXGroup;
 			children = (
+				A2DACE151B8B2F8C001381CC /* ScreenShot */,
 				A266BAC51B7A0C8C00345A72 /* CellFoldDemo */,
 				A266BADF1B7A0C8C00345A72 /* CellFoldDemoTests */,
 				A266BAC41B7A0C8C00345A72 /* Products */,
@@ -191,6 +194,14 @@
 			name = Controller;
 			sourceTree = "<group>";
 		};
+		A2DACE151B8B2F8C001381CC /* ScreenShot */ = {
+			isa = PBXGroup;
+			children = (
+				A2DACE161B8B2F8C001381CC /* Untitled.gif */,
+			);
+			path = ScreenShot;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -275,6 +286,7 @@
 				A266BB061B7A163000345A72 /* ic_home_dropDown_down@3x.png in Resources */,
 				A266BAF01B7A0CD900345A72 /* CellFoldViewController.xib in Resources */,
 				A266BB091B7A1C4000345A72 /* ic_home_dropDown_up@2x.png in Resources */,
+				A2DACE171B8B2F8C001381CC /* Untitled.gif in Resources */,
 				A266BB0F1B7A202700345A72 /* ic_file_type_apk_big@2x.png in Resources */,
 				A266BAFF1B7A116C00345A72 /* QuickLinks.plist in Resources */,
 				A266BAF51B7A0D2800345A72 /* CellFoldCell.xib in Resources */,
@@ -496,6 +508,7 @@
 				A266BAE81B7A0C8C00345A72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A266BAE91B7A0C8C00345A72 /* Build configuration list for PBXNativeTarget "CellFoldDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +517,7 @@
 				A266BAEB1B7A0C8C00345A72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

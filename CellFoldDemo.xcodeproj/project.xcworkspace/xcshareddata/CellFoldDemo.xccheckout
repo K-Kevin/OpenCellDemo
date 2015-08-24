@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A27FA847-B012-4CFE-909A-710B184537DA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CellFoldDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>94A472A2F5DD489E2C1803AA64A948CB145091C2</key>
+		<string>https://github.com/K-Kevin/OpenCellDemo</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CellFoldDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>94A472A2F5DD489E2C1803AA64A948CB145091C2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/K-Kevin/OpenCellDemo</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>94A472A2F5DD489E2C1803AA64A948CB145091C2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>94A472A2F5DD489E2C1803AA64A948CB145091C2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OpenCellDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
