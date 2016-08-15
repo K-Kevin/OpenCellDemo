@@ -61,7 +61,8 @@
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
     //如果cell打开，则多显示一个cell
-    return [self.openCell count]>0&&[self.openCell containsObject:[NSNumber numberWithInt:(int)section]] ? (self.contents.count + 1):1;
+    NSArray *sectionRows = self.contents[section];
+    return [self.openCell count]>0&&[self.openCell containsObject:[NSNumber numberWithInt:(int)section]] ? (sectionRows.count + 1):1;
 }
 
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
